@@ -1,0 +1,16 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+logs/
+models/*.joblib
+data/news_events.csv
+data/runtime_state.json
+data/*_backtest_trades.csv
+data/*_rates.csv
+*.egg-info/
+dist/
+build/
